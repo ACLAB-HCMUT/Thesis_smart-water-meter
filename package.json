@@ -1,0 +1,28 @@
+{
+  "name": "datn_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACLAB-HCMUT/Thesis_smart-water-meter.git"
+  },
+  "keywords": [
+    "backend",
+    "datn"
+  ],
+  "author": "quocvu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACLAB-HCMUT/Thesis_smart-water-meter/issues"
+  },
+  "homepage": "https://github.com/ACLAB-HCMUT/Thesis_smart-water-meter#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
